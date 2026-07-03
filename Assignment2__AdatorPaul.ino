@@ -42,7 +42,7 @@ void setup() {
     tone(buzzerPin, 100, 200);
     delay(1000);
 
-    count = count - 1;;
+    count = count - 1;
 
    }  
    showDigit(0);
